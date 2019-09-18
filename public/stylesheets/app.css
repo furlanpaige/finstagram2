@@ -1,0 +1,37 @@
+header {
+  background-color: #B6E3EF;
+  color: #ffffff;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+}
+body {
+  background-color: whitesmoke;
+  font-family: 'Poppins', sans-serif;
+}
+main {
+  background-color: white;
+  padding: 20px;
+}
+.my-class-name {
+  Whales
+}
+#my-unique-id{
+  AllWhales
+}
+.finstagram-post {
+  margin-bottom: 20px;
+}
+.finstagram-post .user-info img{
+  border-radius: 50%; 
+}
+a.photo:hover {
+  transition: padding 0.25s;
+}
+a.photo:hover {
+  padding: 40px;
+}
+.finstagram-post{
+  margin-top: px;
+}
